@@ -418,7 +418,7 @@ public class BarcodeReadException : System.Exception
 
 ```csharp 
 // Correct
-public void DeleteRow_Click(object sender, ReadBarcodeEventArgs e)
+public void DeleteRow_Click(object sender, RoutedEventArgs e)
 {
 }
 ```
